@@ -11,7 +11,7 @@ MaCoPlA is a CMMS (Computerized Maintenance Management System) application desig
 
 ## Getting Started
 
-This project is currently a work in progress, and the application is not yet ready for release. However, you can follow the development progress and contribute to the project by visiting the [GitHub repository](https://github.com/your-repo-link).
+This project is currently a work in progress, and the application is not yet ready for release. However, you can follow the development progress and contribute to the project by visiting the [GitHub repository](https://github.com/albanothing/MaCoPlA).
 
 ## Contributing
 
